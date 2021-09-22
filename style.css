@@ -52,7 +52,7 @@ ol {
 li {
   color: rgb(85, 82, 82);
   text-align: center;
-  
+  padding-left: 10px;
 }
   a {
     font-weight: 500;
